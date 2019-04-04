@@ -1,0 +1,14 @@
+{
+    "name": "hsk99/image",
+    "description": "Image",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HSK",
+            "email": "3024186605@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
